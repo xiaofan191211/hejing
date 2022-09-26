@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wxdcf42609ff3283a5",
+# 公众号appSecret
+"app_secret": "e9f1a7525f66471da0c70f30d44da5d2",
+# 模板消息id
+"template_id": "Ui-HXzqEgJjqzsfvCJ1ONJ3RqnYojYydC_1EVEmBeOY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
+"user": ["ovWsj6fVxRS-Rfk1Nrs-LVdgirt4","ovWsj6R-lHuNWw2rFR7t_pKwHk48"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "3a47e978b58142e8a6999ab14f673097",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "江西省九江市濂溪区九江职业技术学院",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "何静", "birthday": "2001-05-17"},
+# 生日2
+"birthday2": {"name": "曾凡有", "birthday": "2001-12-30"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2022-02-28",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "时光静好，与君语，细水流年，与君同，繁华落尽，与君老。",
+# 金句英文
+"note_en": "I like you, not love words, is the truth."
+}
